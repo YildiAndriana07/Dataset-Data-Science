@@ -10,13 +10,20 @@ Sampah Anorganik (Botol Plastik)
 
 Model yang dihasilkan diharapkan dapat membantu proses pemilahan sampah secara otomatis sehingga meningkatkan efektivitas pengelolaan dan daur ulang sampah
 
-📂 Struktur Dataset
+## 📂 Struktur Dataset
+
+```text
 Dataset-Data-Science/
 │
 ├── Organik/
-│   └── Gambar sampah makanan
+│   ├── gambar1.jpg
+│   ├── gambar2.jpg
+│   └── ...
 │
 ├── Anorganik/
-│   └── Gambar botol plastik
+│   ├── gambar1.jpg
+│   ├── gambar2.jpg
+│   └── ...
 │
 └── README.md
+```
