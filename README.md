@@ -1,0 +1,1 @@
+Dataset ini dikembangkan sebagai bagian dari proyek SinomiAI, sebuah platform berbasis Artificial Intelligence (AI) yang membantu masyarakat dalam mengenali jenis sampah serta memberikan rekomendasi pengolahan sampah yang tepat
