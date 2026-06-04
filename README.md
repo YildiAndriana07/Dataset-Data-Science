@@ -4,10 +4,10 @@ Dataset ini dikembangkan sebagai bagian dari proyek SinomiAI, sebuah platform be
 🎯 Tujuan Dataset
 
 Dataset ini dibuat untuk mendukung proses pelatihan model klasifikasi gambar yang mampu membedakan antara:
-
+```
 Sampah Organik (Sampah Makanan)
 Sampah Anorganik (Botol Plastik)
-
+```
 Model yang dihasilkan diharapkan dapat membantu proses pemilahan sampah secara otomatis sehingga meningkatkan efektivitas pengelolaan dan daur ulang sampah
 
 ## 📂 Struktur Dataset
