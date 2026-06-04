@@ -25,5 +25,6 @@ Dataset-Data-Science/
 │   ├── gambar2.jpg
 │   └── ...
 │
+| Capstone_Proyek.ipynb
 └── README.md
 ```
